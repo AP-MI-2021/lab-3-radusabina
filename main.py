@@ -77,7 +77,7 @@ def get_longest_prime_digits(l):
     Determina cea mai lunga subsecventa din l care are numerele formate din cifre prime
 
     :param l: lista de numere intregi
-    :return: cea mai lunga subsecventa din l care are numerele formate di  cifre prime
+    :return: cea mai lunga subsecventa din l care are numerele formate din cifre prime
     """
     subsecventa_max = []
     for i in range(len(l)):
